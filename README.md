@@ -1,4 +1,4 @@
-# Financial_Analysis
+# Financial Analysis
 - This repo holds all the projects for Financial Analysis
 
 # Content
