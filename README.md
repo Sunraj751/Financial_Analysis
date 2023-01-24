@@ -5,7 +5,7 @@
 1. [Fundamental Financial Analysis](#Fundamental-Financial-Analysis)
 
 # Fundamental Financial Analysis
-- **Project link**:- https://github.com/Sunraj751/Financial_Analysis/blob/main/Financial%20analysis.ipynb
+- **Project link**:- https://nbviewer.org/github/Sunraj751/Financial_Analysis/blob/main/Financial%20analysis.ipynb
 - **Overview**
   - This project focuses doing **Risk Managment and Stock prediction**. 
   - We start with creating a dataset for stock info using yfinance module, following with **data cleaning and visualizaiton** to understand the data
